@@ -1,1 +1,1 @@
-# C-_CodeSnippets
+# Collection of C# Code Snippets
